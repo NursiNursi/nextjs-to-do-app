@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Buy milk with some orange"
+    },
+    {
+      "id": "2",
+      "text": "Help my friend to find a girl"
+    },
+    {
+      "id": "3",
+      "text": "Go to gym"
+    },
+    {
+      "id": "4",
+      "text": "Go to market"
+    },
+    {
+      "id": "5",
+      "text": "Learn math"
+    },
+    {
+      "id": "8f81fa44-a99d-465c-a9f8-9abe9aab3ed3",
+      "text": "Learn programming"
+    }
+  ]
+}
